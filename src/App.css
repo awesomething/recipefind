@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Josefin+Sans:wght@200&family=Supermercado+One&display=swap');
+
+body {
+  text-align: center;
+  background-color: #BCB2E0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+/* input {
+  font-family: 'Josefin Sans', sans-serif;
+  size: 50;
+} */
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+}
+
